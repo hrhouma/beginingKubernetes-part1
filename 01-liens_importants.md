@@ -4,18 +4,22 @@ Bienvenue dans le README des ressources Kubernetes ! Ce document contient des re
 
 ## 1. Certification CKA 📜
 
-- **Dépôt GitHub** : [Certification CKA](https://github.com/your-repo-url)
+- **Dépôt GitHub** : [Certification CKA](https://github.com/hrhouma/CKA)
   - Ce dépôt contient tous les matériaux et ressources nécessaires pour préparer l'examen Certified Kubernetes Administrator (CKA).
+- **Autres Dépôts GitHub** :
+  - https://github.com/kodekloudhub/certified-kubernetes-administrator-course?tab=readme-ov-file
+  - https://github.com/hrhouma/CKA
+  - https://github.com/dgkanatsios/CKAD-exercises
 
 ## 2. Liens vers mes Travaux, Q&R, et Site Web 🔗
 
-- **Mes Travaux et Questions/Réponses** : [Plateforme Q&R](https://your-qa-platform-url)
-- **Mon Site Web** : [Mon Site Web](https://your-website-url)
+- **Mes Travaux et Questions/Réponses** : [Plateforme Q&R](https://your-qa-platform-url) - À venir (Lang)
+- **Mon Site Web** : [Mon Site Web](https://your-website-url) - À venir
 
 ## 3. Articles DevOps et Kubernetes (en anglais) 📚
 
-- **DevOps World** : [devopsworld.co.in](https://www.devopsworld.co.in/)
-- **Elastic Hayway** : [Simple Storage Service S3](https://devopelastichayway.com/simple-storage-service-s3/)
+- **DevOps World** : [devopsworld.co.in](https://www.devopsworld.co.in/) (https://www.devopsworld.co.in/)
+- **Elastic Hayway** : [Simple Storage Service S3](https://devopelastichayway.com/simple-storage-service-s3/) ([https://www.devopsworld.co.in/](https://devopelastichayway.com/)
 
 ## 4. Articles DevOps et Kubernetes (en français) 📚
 
