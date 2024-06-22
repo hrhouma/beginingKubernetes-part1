@@ -1,12 +1,3 @@
-# Titre du Cours : Introduction à Kubernetes
-
-# Objectifs du cours :
-- Comprendre les concepts fondamentaux de Kubernetes.
-- Apprendre à déployer et gérer des applications conteneurisées avec Kubernetes.
-- Maîtriser les outils et techniques pour l'orchestration de conteneurs.
-
-# Plan du Cours :
-
 # Chapitre 1 : Introduction à Kubernetes
 1. **Leçon 1 : A l'abordage !**
 2. **Leçon 2 : Introduction à la stack DevOps**
